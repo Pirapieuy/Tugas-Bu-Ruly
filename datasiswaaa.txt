@@ -1,0 +1,4 @@
+Nama : Rafi
+Jurusan : RPL 2
+NISN : 2345234
+Nilai Rata-rata : 67
